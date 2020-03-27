@@ -1,0 +1,47 @@
+body {
+    background-color: #272727;
+    color: bisque;
+    margin: 0;
+}
+
+.container-fluid {
+    margin: 0;
+}
+
+.genre {
+    margin-bottom: 40px;
+}
+
+.title {
+    text-align: center;
+}
+
+.card {
+    width: 100%;
+    margin-right: 20px;
+}
+
+.card-body {
+    background-color: #747474;
+}
+
+.img-responsive {
+    height: 400px;
+    max-width: 400px;
+}
+
+.baseball {
+    border: solid red 4px;
+}
+
+.football {
+    border: solid #14a76c 4px;
+}
+
+.basketball {
+    border: solid #ff652f 4px;
+}
+
+.hockey {
+    border: solid #ffe400 4px;
+}
