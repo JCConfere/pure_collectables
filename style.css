@@ -2,11 +2,18 @@ body {
     background-color: #272727;
     color: bisque;
     margin: 0;
+    
 }
 
 .container-fluid {
     margin: 0;
 }
+
+.broadway {
+    font-family: broadway;
+    font-weight: lighter;
+}
+
 
 .genre {
     margin-bottom: 40px;
@@ -44,4 +51,13 @@ body {
 
 .hockey {
     border: solid #ffe400 4px;
+}
+
+select {
+    background-color: #272727;
+    color: bisque;
+}
+
+.division {
+    font-size: 16px;
 }
