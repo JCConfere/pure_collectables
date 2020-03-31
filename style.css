@@ -21,6 +21,9 @@ body {
 
 .title {
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
 }
 
 .card {
@@ -37,20 +40,49 @@ body {
     max-width: 400px;
 }
 
+.filter-nav {
+    margin-bottom: 40px;
+}
+
+/* ################  BASEBALL related CSS  ################# */
+
 .baseball {
     border: solid red 4px;
 }
 
+.baseball-nav {
+    color: red;
+}
+
+.baseball-title {
+    color: red;
+    font-weight: lighter;
+}
+
+
+
 .football {
     border: solid #14a76c 4px;
+}
+
+.football-nav {
+    color: #14a76c
 }
 
 .basketball {
     border: solid #ff652f 4px;
 }
 
+.basketball-nav {
+    color: #ff652f;
+}
+
 .hockey {
     border: solid #ffe400 4px;
+}
+
+.hockey-nav {
+    color: #ffe400;
 }
 
 select {
