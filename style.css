@@ -60,6 +60,7 @@ body {
 }
 
 
+/* ################ FOOTBALL related CSS ###################### */
 
 .football {
     border: solid #14a76c 4px;
@@ -69,6 +70,12 @@ body {
     color: #14a76c
 }
 
+.football-title {
+    color: #14a76c
+}
+
+/* ################## BASKETBALL related CSS ###################### */
+
 .basketball {
     border: solid #ff652f 4px;
 }
@@ -77,11 +84,20 @@ body {
     color: #ff652f;
 }
 
+.basketball-title {
+    color: #ff652f
+}
+/* #################### HOCKEY related CSS ###################### */
+
 .hockey {
     border: solid #ffe400 4px;
 }
 
 .hockey-nav {
+    color: #ffe400;
+}
+
+.hockey-title {
     color: #ffe400;
 }
 
